@@ -31,7 +31,7 @@ Because of the simplicity and the user-friendly UI of the software anyone can us
 
 ## Authors
 
-- [@adiththa](https://github.com/adiththa)
+- [@adiii98](https://github.com/adiii98)
 - [@janithcbk123](https://github.com/janithcbk123)
 - [@Thesara97](https://github.com/Thesara97)
 - [@NimeshMendis](https://github.com/NimeshMendis)
