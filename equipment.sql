@@ -172,7 +172,7 @@ ALTER TABLE `invoices`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `settings`
+-- Indexes for table `settings `
 --
 ALTER TABLE `settings`
   ADD PRIMARY KEY (`id`);
